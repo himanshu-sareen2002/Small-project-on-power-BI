@@ -9,5 +9,6 @@ Conclusions Obtained:
 4. Topmost sold subcategory is phones.
 5. maximum sales comes from new york city.
 6. major customer segment is consumers(51%) followed by corporate and then home office.
+
 Insight obtained :
 The company should target new york city and sell phones to consumers to increase their profits and sales.
